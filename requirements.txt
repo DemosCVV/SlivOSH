@@ -1,2 +1,2 @@
-aiogram==3.7.6
+aiogram==2.25.1
 aiosqlite
